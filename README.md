@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Mail me at : <strong>imarpitsaini5437@gmail.com</strong>
 <p align="center">
   <a href="https://www.linkedin.com/in/arpit5437" target="_blank">Image</a>
-  <img src="https://github-readme-stats.vercel.app/api/username-codeme13&show_icons=true" alt="ArpitSaini>
+  <img src="https://github-readme-stats.vercel.app/api/username-codeme13&show_icons=true" alt="ArpitSaini">
 </p>
   <p align="center">
                    <a href="https://www.linkedin.com/in/arpit5437" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>
