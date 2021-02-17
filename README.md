@@ -1,19 +1,5 @@
-### Hi there 
- <!--
-**codeme13/codeme13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-
-- 🤔 I’m looking for help with ...
-
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi there, I am Arpit Saini 👋</h1>
+### Hi there 👋
+<h1>Hi there, I am Arpit Saini 👋</h1>
 
 - 🔭 I’m currently working on <strong>Back-end Development</strong>.
 - 💬 Ask me about <strong> MERN </strong>.
