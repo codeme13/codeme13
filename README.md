@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Full stack Web-development projects.
 - 📫 How to reach me: Mail me at : <strong>imarpitsaini5437@gmail.com</strong>
 <p align="center">
-  <a href="https://www.linkedin.com/in/arpit5437" target="_blank">Image</a>
   <img src="https://github-readme-stats.vercel.app/api?username=codeme13&show_icons=true" alt="ArpitSaini">
 </p>
   <p align="center">
