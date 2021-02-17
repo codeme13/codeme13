@@ -24,8 +24,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/username-codeme13&show_icons=true" alt="ArpitSaini>
 </p>
   <p align="center">
-                   <a href="https://www.linkedin.com/in/arpit5437" target="_blank"><img src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>
-                       <a href="https://twitter.com/arpitsaini123" target="_blank"><img src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="30"></a>
+                   <a href="https://www.linkedin.com/in/arpit5437" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>
+                       <a href="https://twitter.com/arpitsaini123" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="30"></a>
   </p>
                                                                                                
                                                                                                
